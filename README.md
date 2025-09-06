@@ -62,9 +62,9 @@ And here are the tools he uses to do it...
 #### 2. The Brand Shield: "Tesla"
 * **Quantitative Finding (The WHAT?):** The word "Tesla" is the sun around which his linguistic solar system revolves.
 * **Visualization:**
-    ![Chart: Usage of the word "Tesla" over time vs. major events](./images/Tesla year.png)
+    ![Chart: Usage of the word "Tesla" over time vs. major events](/images/Tesla year.png)
 * **Strategic Interpretation (The WHY?):** It's his ultimate "Get Out of Controversy Free" card. When facing criticism, a post about a new Tesla feature instantly pivots the conversation back to his role as a "visionary innovator," effectively neutralizing the negative narrative.
-* **Link to Analysis:** `[See the code for this analysis in the notebook.](./notebooks/musk_tweet_analysis.ipynb)`
+* **Link to Analysis:** `[See the code for this analysis in the notebook.](/notebooks/musk_tweet_analysis.ipynb)`
 
 ---
 
