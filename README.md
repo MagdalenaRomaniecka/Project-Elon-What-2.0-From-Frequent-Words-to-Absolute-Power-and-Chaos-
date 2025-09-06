@@ -55,7 +55,7 @@ And here are the tools he uses to do it...
 #### 1. The Affirmation Engine: "Yeah", "True", "Yup"
 * **Quantitative Finding (The WHAT?):** These single-word affirmations are the bedrock of his digital footprint, making up a significant portion of his replies.
 * **Visualization:**
-       ![Chart: Frequency of 'Yeah', 'True', and 'Yup'](.https://raw.githubusercontent.com/MagdalenaRomaniecka/Musk-Communication-Analysis/main/data/images/Frequency%20a%20Token.png)
+       ![Chart: Frequency of 'Yeah', 'True', and 'Yup'](https://raw.githubusercontent.com/MagdalenaRomaniecka/Musk-Communication-Analysis/main/data/images/Frequency%20a%20Token.png)
 * **Strategic Interpretation (The WHY?):** This is a low-effort tool for building a parasocial bond ("I'm one of you") and shaping a narrative. By "confirming" his followers' posts, he outsources his arguments and reinforces his worldview with a single tap.
 * **Link to Analysis:** `[See the code for this analysis in the notebook.](./notebooks/musk_tweet_analysis.ipynb)`
 
