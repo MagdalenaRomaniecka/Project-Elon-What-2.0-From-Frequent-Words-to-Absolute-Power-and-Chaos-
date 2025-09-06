@@ -1,6 +1,11 @@
 # Project-Elon-What-2.0-From-Frequent-Words-to-Absolute-Power-and-Chaos-
 From frequent words to absolute power (and chaos). A deep dive into Elon Musk's linguistic playbook, combining hard data with rhetorical analysis.
 
+**Executive Summary (TL;DR):** This project analyzes thousands of Elon Musk's tweets by combining quantitative frequency analysis (the "what") with qualitative, strategic interpretation (the "why"). The goal was to determine if the apparent chaos in his communication is, in fact, a deliberate system of narrative control.
+
+**[➡️ View Interactive Dashboard](#-interactive-dashboard) | [➡️ Jump to Analysis & Findings](#-decoding-the-musk-rosetta-stone-where-data-meets-strategy) | [➡️ See the Code in the Notebook](./notebooks/musk_tweet_analysis.ipynb)**
+
+---
 ## 🚀 Mission Briefing
 
 Ever felt like Elon Musk's X feed is a rollercoaster designed by a mad genius on a sugar rush? You're not alone. This project started as a simple question: **"Elon, what are you even talking about?"**. It turns out the answer is far more interesting than just "memes and rockets."
