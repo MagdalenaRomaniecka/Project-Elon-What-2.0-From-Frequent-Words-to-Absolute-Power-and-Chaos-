@@ -31,6 +31,18 @@ This project began with a simple question: **"Elon, what are you even talking ab
 
 ---
 
+## 🔗 Relation to Previous Research
+
+This project represents the **second, qualitative phase** of a broader analysis into Elon Musk's communication. It builds directly upon the quantitative findings from our initial study, **"Project 'Elon, What?!' 1.0"**.
+
+* **Phase 1 (Quantitative)**: The first project focused on scraping and analyzing tweet data to answer the question: **"WHAT words does he use most?"**. The code and findings from this phase are available in a separate repository.
+    * ➡️ **[View the Quantitative Analysis Repository Here](https://github.com/MagdalenaRomaniecka/Anatomy-of-a-Tweetstorm)**
+
+* **Phase 2 (Qualitative)**: This repository contains the subsequent analysis, which takes those findings and answers the question: **"WHY does he use them?"**.
+
+---
+
+---
 ## 🤯 The Big Reveal: A System Designed for Control
 Our analysis shows Musk's communication is a system designed to achieve four key objectives:
 1.  Build a para-social army of loyal followers.
