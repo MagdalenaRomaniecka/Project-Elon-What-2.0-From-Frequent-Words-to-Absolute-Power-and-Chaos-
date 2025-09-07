@@ -38,7 +38,7 @@ Our analysis shows Musk's communication is a system designed to achieve four key
 * **What?**: These one-word replies are the foundation of his digital engagement.
 * **Why?**: This is a low-effort tool for creating a sense of authentic, personal conversation. By "confirming" followers' posts, he outsources his arguments and shapes the narrative with a single tap.
 * **Visualization**:
-    ![Chart: Composition of Affirmative Words Over Time](./images/yeah_true_yup.png)
+    ![Chart: Composition of Affirmative Words Over Time](/images/yeah_true_yup.png)
 
 #### 2. The Brand Shield: "Tesla"
 * **What?**: The word "Tesla" is the sun around which his linguistic solar system revolves.
