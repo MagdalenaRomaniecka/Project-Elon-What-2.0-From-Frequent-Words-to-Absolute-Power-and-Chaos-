@@ -22,7 +22,16 @@ This project moves beyond the surface-level chaos of Elon Musk's tweets. By merg
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ---
+---
 
+### 🔬 Research Foundation: Qualitative Analysis
+
+The insights and interpretations presented in this project are grounded in a detailed qualitative analysis of Elon Musk's communication strategy. This foundational research explores the rhetorical tactics and narrative themes he employs to wield influence.
+
+* ➡️ **[Explore the full "Language, Power & Chaos" qualitative analysis in its dedicated repository](https://github.com/MagdalenaRomaniecka/Language-Power-Chaos/blob/main/README.md)**
+* 📄 **[Download the original analysis report (Google Doc)](https://docs.google.com/document/d/1P-1Z1xuBniYmP-2l0bEQuFYzMdMill95FPSpwiYcXAI/edit?usp=sharing)**
+
+---
 ## 🚀 Mission Briefing
 This project began with a simple question: **"Elon, what are you even talking about?"**. It merges two analytical missions to deconstruct his seemingly erratic communication style and reveal a finely tuned system of narrative control and brand building.
 
