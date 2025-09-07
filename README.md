@@ -5,7 +5,7 @@ A deep dive into Elon Musk's linguistic playbook, combining hard data with rheto
 ---
 
 ### 🧭 Quick Navigation
-**[➡️ Jump to Key Findings](#-key-findings) | [➡️ See the Code in the Notebook](./notebooks/musk_tweet_analysis.ipynb) | [➡️ View Project Resources](#-project-resources)**
+**[➡️ Jump to Key Findings](#-key-findings) | [➡️ See the Code in the Notebook](/notebooks/musk_tweet_analysis(1).ipynb) | [➡️ View Project Resources](#-project-resources)**
 
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
