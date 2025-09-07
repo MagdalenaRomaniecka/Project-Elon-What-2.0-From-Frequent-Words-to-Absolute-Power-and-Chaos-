@@ -44,13 +44,13 @@ Our analysis shows Musk's communication is a system designed to achieve four key
 * **What?**: The word "Tesla" is the sun around which his linguistic solar system revolves.
 * **Why?**: It's his ultimate "Get Out of Controversy Free" card. When facing heat, he posts about a new Tesla feature to remind followers of his "visionary" status and pivot the conversation.
 * **Visualization**:
-    ![Chart: Yearly Mentions of 'Tesla'](./images/tesla_timeline_improved.png)
+    ![Chart: Yearly Mentions of 'Tesla'](/images/Tesla_year.png)
 
 #### 3. The Defensive Weapon: "Legacy media" / "MSM"
 * **What?**: His favorite bogeyman, with usage spiking dramatically during controversies.
 * **Why?**: It's a defensive weapon used to attack the messenger rather than debate the facts. This reframes the narrative for his followers from "Is Elon wrong?" to "Are the corrupt media lying about our guy again?".
 * **Visualization**:
-    ![Chart: Yearly Mentions of 'Legacy Media'](./images/legacy_media_timeline_improved.png)
+    ![Chart: Yearly Mentions of 'Legacy Media'](/images/LegacyMedia_year.png)
 
 ---
 
