@@ -1,9 +1,14 @@
-# Project-Elon-What-2.0: From Frequent Words to Absolute Power and Chaos
+# Project: Elon, What?! 2.0
+### An Analysis of Musk's Communication Strategy
 
-A deep dive into Elon Musk's linguistic playbook, combining hard data with rhetorical analysis to uncover a system of narrative control behind the apparent chaos.
+> A deep dive into Elon Musk's linguistic playbook, combining hard data with rhetorical analysis to uncover the system behind the chaos.
 
-**Executive Summary (TL;DR):** This project analyzes thousands of Elon Musk's tweets by combining quantitative frequency analysis (the "what") with qualitative, strategic interpretation (the "why"). The goal was to determine if the apparent chaos in his communication is, in fact, a deliberate system of narrative control.
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge) ![Analysis](https://img.shields.io/badge/Analysis-Quantitative_&_Qualitative-blueviolet?style=for-the-badge) ![Language](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
+
+## 🎯 Project Goal
+
+This project moves beyond the surface-level chaos of Elon Musk's tweets. By merging **quantitative frequency analysis** (identifying *what* he says) with **qualitative strategic interpretation** (understanding *why* he says it), this analysis aims to determine if his communication is random or a deliberate, systematic tool for narrative control.
 
 ### 🧭 Quick Navigation
 **[➡️ Jump to Key Findings](#-key-findings) | [➡️ See the Code in the Notebook](/notebooks/Frequency.ipynb) | [➡️ View Project Resources](#-project-resources)**
