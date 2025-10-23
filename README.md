@@ -103,5 +103,5 @@ The analysis shows that Elon Musk successfully "freed the bird," but he may have
 ---
 
 ## 📂 Project Resources
-* **Dataset**: The analysis is based on the [All Elon Musk's Tweets dataset on Kaggle](https://www.kaggle.com/datasets/dadalyndell/elon-musk-tweets-2010-to-2025-march).
-* **Analysis Code**: The full Python code is available in the [Jupyter Notebook](https://github.com/MagdalenaRomaniecka/Project-Elon-What-2.0-From-Frequent-Words-to-Absolute-Power-and-Chaos-/blob/main/notebooks/musk_tweet_analysis%20(1).ipynb) in this repository, ensuring full transparency and reproducibility.
+**Dataset:** The analysis is based on the [All Elon Musk's Tweets dataset on Kaggle](https://www.kaggle.com/datasets/data-lyndell/all-elon-musks-tweets).
+**Analysis Code:** The full Python code is available in the [Jupyter Notebook](https://github.com/MagdalenaRomaniecka/Project-Elon-What-2.0-From-Frequent-Words-to-Absolute-Power-and-Chaos-/blob/main/notebooks/Frequency.ipynb) in this repository, ensuring full transparency and reproducibility.
